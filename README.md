@@ -1,4 +1,4 @@
-# talks
+# deck
 
 - [Be a better parent to your children - Seattle Meetup - 2020-08-25](https://github.com/herminiotorres/talks/blob/master/2020-08-25-seattle-meetup/Be%20a%20better%20parent%20to%20your%20children.pdf)
 
