@@ -2,7 +2,7 @@ defmodule SurfaceDummyWeb.Components.DateTime do
   use Surface.Component
 
   # private prop
-  data(timezone, :string, from_context: :timezone)
+  data timezone, :string, from_context: :timezone
 
   @dt ~U[2023-10-20 14:30:00.000000Z]
 

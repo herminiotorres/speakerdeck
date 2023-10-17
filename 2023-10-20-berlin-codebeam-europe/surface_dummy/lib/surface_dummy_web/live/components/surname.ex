@@ -4,7 +4,7 @@ defmodule SurfaceDummyWeb.Components.Surname do
   alias SurfaceDummyWeb.Components.DateTime
 
   # public prop
-  prop(surname, :string, required: true)
+  prop surname, :string, required: true
 
   def render(assigns) do
     ~F"""

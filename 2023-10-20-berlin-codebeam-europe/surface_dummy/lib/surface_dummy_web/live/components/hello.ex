@@ -3,8 +3,8 @@ defmodule SurfaceDummyWeb.Components.Hello do
 
   alias SurfaceDummyWeb.Components.Name
 
-  prop(name, :string, required: true)
-  prop(surname, :string, required: true)
+  prop name, :string, required: true
+  prop surname, :string, required: true
 
   def render(assigns) do
     ~F"""
